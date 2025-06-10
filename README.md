@@ -1,4 +1,8 @@
-## Hi there 👋
+## Bem vindo!
+## Quem sou? 
+Hugo Matozo, cursando o terceiro período do curso de Redes em Computadores no IFSULDEMINAS Campus Inconfidentes.
+## Linguagens
+Aprendizado em Python, php e javascript.
 
 <!--
 **matozorx/matozorx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
